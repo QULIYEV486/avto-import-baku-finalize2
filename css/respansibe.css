@@ -1,0 +1,278 @@
+@media (min-width: 360px) and (max-width: 767px) {
+
+.About-text {
+    margin: 0px;
+    text-align: center;
+    padding: 25px;
+    font-size: 25px;
+
+}
+
+
+.About-card {
+    font-size: 29px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: 600;
+}
+
+.resize{
+    background-image: url(../img/reponive.jpg) !important;
+}
+
+.text-white {
+    font-size: 22px;
+   
+
+}
+
+#navbarNav{
+    background-color: #323031;
+    margin-top: -7px;
+    z-index: 20;
+    padding-left: 24px;
+    /* position: fixed; */
+    margin-left: 0px;
+}
+
+
+
+.icons-ftr {
+    width: 31px;
+    padding: 1px;
+}
+
+
+
+.cards-main{
+    padding: 50px;
+    padding-top: 15px;
+    
+}
+
+.box{      
+    width: 269px !important;
+    padding: 7px !important;
+    margin: 20px !important;
+    padding-top: 10px !important;
+    padding-left: 15px !important
+}
+   
+
+
+.Credits{
+    margin-top: 14px;
+    width: 53%;
+    height: 95%;
+    margin-left: 78px;
+}
+
+.Credits-img {
+    width: 213px;
+    height: 282px;
+    margin-top: -3px;
+    margin-left: 74px;
+    padding: 30px !important;
+}
+
+.Credits-main{
+    height: 860px;
+    /* margin-top: 38px; */
+}
+
+.p-text{
+    color: white;
+    text-align: left;
+    font-size: 17px;
+    width: 109%;
+    padding: 0px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+
+.footer-logo{
+    padding-right: 60px;
+
+}
+
+.carousel-item {
+    height: 550px;
+}
+
+
+.chinatextaz {
+    bottom: 102px !important;
+    width: 76% !important;
+}
+.w-100 {
+    width: 100% !important;
+    height: 550px;
+}
+
+.carousel-caption {
+    bottom: 105px;
+    text-align: start;
+}
+
+.chinatext{
+    bottom: 49px !important;
+    width: 271px !important; 
+}
+
+.chinatextaz{
+    bottom: 28px !important;
+}
+
+.chinatextru{
+    bottom: -2px !important;
+    width: 91% !important;
+    padding-right: 72px !important;
+
+}
+
+.koreatext {
+    bottom: 112px !important;
+    text-align: center !important;
+}
+
+.koreatextaz {
+    bottom: 86px !important;
+    text-align: center !important;
+}
+
+.koreatextru{
+    bottom: 38px !important;
+    text-align: center !important;
+}
+
+
+.usatext{
+    bottom: 99px !important;
+    text-align: center !important;
+}
+
+.usatextaz {
+    bottom: 64px !important;
+    text-align: center !important;
+}
+
+
+.usatextru{
+    bottom: 50px !important;
+    text-align: center !important;
+}
+
+.slidertexth3{
+    text-align: center !important;
+}
+
+.slidertext {
+    text-align: justify;
+    font-size: 15px;
+    
+}
+
+.slidertext1{
+    font-size: 26px;
+}
+
+.slideimage {
+    bottom: 76px !important;
+    text-align: start;
+    width: 66%;
+   
+
+}
+
+.slideimageaz{
+    bottom: 113px !important;
+    text-align: start;
+    width: 66%;
+}
+
+
+.slideimageru{
+    bottom: 60px !important;
+    text-align: start;
+    width: 83%; 
+}
+
+
+
+
+
+.Rectangle-img {
+    width: 233px !important;
+    height: 338px !important;
+    margin-top: 45px !important;
+    margin-left: -73px !important;
+}
+
+
+.Rectangle {
+    margin-top: 40px;
+    margin-inline-start: auto;
+    width: 58%;
+    height: 100%;
+    margin-left: 110px;
+}
+    
+
+
+.contact-container {
+    padding-top: 46px;
+   
+}
+
+
+
+.contact-name-input {
+    padding: 16px;
+    width: 73%;
+}
+
+.contact-name-textarea {
+    width: 73%;
+}
+
+
+.contact-btn {
+    padding: 13px;
+    width: 60%;
+    font-size: 22px;
+}
+
+.Logo{
+    margin-top: 0;
+}
+
+.background-image {
+    height: 100% !important;
+}
+}
+
+
+
+
+@media (min-width: 933) and (max-width: 2518px) {
+    .mt-5, .my-5 {
+        margin-top: 3rem !important;
+        /* margin: 40px; */
+    }
+
+
+    .main-row{
+        /* margin-left: -92px;
+        margin-right: -149px */
+    }
+
+    .card {
+        width: 31rem !important;
+        height: 47rem !important;
+    }
+
+
+}
+
+
