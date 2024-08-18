@@ -34,6 +34,15 @@ body{
     margin-top: 6px;
 }
 
+
+.text-uppercase{
+    text-transform: uppercase !important;
+    font-family: sans-serif;
+    font-weight: 600
+}
+    
+
+
 .Logo{
     display: flex;
     margin-top: 15px;
@@ -70,12 +79,14 @@ body{
     font-weight: 400;
     text-align: justify;
     font-size: 23px;
+    cursor: pointer;
 }
 
 .slidertexth3{
     font-weight: 600;
     font-family: sans-serif;
     text-align: center;
+    cursor: pointer;
 }
 
 .slidertext1{
@@ -83,13 +94,15 @@ body{
     font-family: sans-serif;
     text-align: start;
     font-size: 40px;
+    cursor: pointer;
 }
 
 .slidertext2{
     font-family: sans-serif;
     font-weight: 400;
     text-align: start;
-    font-size: 24px;
+    font-size: 21px;
+    cursor: pointer;
 }
 
 
@@ -98,8 +111,8 @@ body{
 }
 
 .chinatextaz{
-    bottom: 102px !important;
-    width: 66% !important;
+    bottom: 11px !important;
+    width: 71% !important;
    
 }
 
@@ -110,7 +123,7 @@ body{
 }
 
 .koreatext {
-    bottom: 238px !important;
+    bottom: 234px !important;
 }
 
 
@@ -123,7 +136,7 @@ body{
 }
 
 .usatext{
-    bottom: 198px !important;
+    bottom: 201px !important;
 }
 
 .usatextaz{
@@ -135,7 +148,7 @@ body{
 }
 
 .slideimage{
-    bottom: 235px !important;
+    bottom: 262px !important;
     padding-left: 4px !important;
     /* text-align: start; */
 }
@@ -165,13 +178,13 @@ body{
 .About-tag{
     color: white;
     font-family: sans-serif;
-    font-size: 16px;
+    font-weight: 600;
 }
 
 .About-card{
-    font-size: 26px;
     font-family: sans-serif;
     color: white;
+    font-weight: 600;
 }
 
 .p-text{
@@ -274,6 +287,7 @@ body{
 
 .Portfolio-h3{
     text-align: justify;
+    font-weight: 600;
 }
 
 .see-btn{
@@ -314,6 +328,8 @@ body{
 .Services-h3{
     color: white;
     margin-left: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
 }
 
 
@@ -374,6 +390,10 @@ body{
     font-size: 18px;
 }
 
+
+.contact-btn:hover{
+    background-color: #3bcdee;
+}
 
 .contact-container{
     padding-top: 46px;

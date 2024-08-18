@@ -103,7 +103,7 @@
 
 .chinatextaz {
     bottom: 102px !important;
-    width: 76% !important;
+    width: 74% !important;
 }
 .w-100 {
     width: 100% !important;
@@ -116,12 +116,12 @@
 }
 
 .chinatext{
-    bottom: 49px !important;
-    width: 271px !important; 
+    bottom: 40px !important;
+    
 }
 
 .chinatextaz{
-    bottom: 28px !important;
+    bottom: 7px !important;
 }
 
 .chinatextru{
@@ -132,7 +132,7 @@
 }
 
 .koreatext {
-    bottom: 112px !important;
+    bottom: 118px !important;
     text-align: center !important;
 }
 
@@ -148,7 +148,7 @@
 
 
 .usatext{
-    bottom: 99px !important;
+    bottom: 92px !important;
     text-align: center !important;
 }
 
@@ -168,9 +168,9 @@
 }
 
 .slidertext {
-    text-align: justify;
+    text-align: left;
     font-size: 15px;
-    
+    width: 102%;
 }
 
 .slidertext1{
@@ -180,22 +180,22 @@
 .slideimage {
     bottom: 76px !important;
     text-align: start;
-    width: 66%;
+    width: 62%;
    
 
 }
 
 .slideimageaz{
-    bottom: 113px !important;
+    bottom: 133px !important;
     text-align: start;
-    width: 66%;
+    width: 68%;
 }
 
 
 .slideimageru{
     bottom: 60px !important;
     text-align: start;
-    width: 83%; 
+    /* width: 83%;  */
 }
 
 
