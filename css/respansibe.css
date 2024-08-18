@@ -101,10 +101,7 @@
 }
 
 
-.chinatextaz {
-    bottom: 102px !important;
-    width: 74% !important;
-}
+
 .w-100 {
     width: 100% !important;
     height: 550px;
@@ -116,12 +113,13 @@
 }
 
 .chinatext{
-    bottom: 40px !important;
+    bottom: 58px !important;
     
 }
 
-.chinatextaz{
-    bottom: 7px !important;
+.chinatextaz {
+    bottom: 15px !important;
+    width: 71% !important;
 }
 
 .chinatextru{
@@ -132,7 +130,7 @@
 }
 
 .koreatext {
-    bottom: 118px !important;
+    bottom: 93px !important;
     text-align: center !important;
 }
 
@@ -170,7 +168,7 @@
 .slidertext {
     text-align: left;
     font-size: 15px;
-    width: 102%;
+    width: 100%;
 }
 
 .slidertext1{
